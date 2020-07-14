@@ -70,3 +70,14 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.text-align-hero {
+  text-align: center;
+  height: 625px;
+  line-height: 625px;
+  vertical-align: middle;
+}
+
+.white{
+  color: white;
+}
