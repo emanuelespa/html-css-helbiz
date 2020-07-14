@@ -80,4 +80,11 @@ a {
 
 .white{
   color: white;
+  margin: 30px;
+  z-index: 2;
+}
+
+.black{
+  color: red;
+  z-index: 1;
 }
