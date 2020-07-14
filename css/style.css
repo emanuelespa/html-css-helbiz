@@ -46,6 +46,11 @@ a {
   text-align: right;
 }
 
+.border-ENG{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
 .btn {
   padding: 10px 20px;
   margin-left: 15px;
@@ -88,6 +93,7 @@ a {
 .padding_apple{
   padding-top: 12px;
 }
+
 .padding_apple2{
   padding-top: 24px;
 }
