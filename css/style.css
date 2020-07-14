@@ -71,20 +71,27 @@ a {
   background-size: cover;
 }
 
-.text-align-hero {
-  text-align: center;
-  height: 625px;
-  line-height: 625px;
-  vertical-align: middle;
-}
-
 .white{
   color: white;
-  margin: 30px;
-  z-index: 2;
+  font-size: 35px;
+}
+
+.align{
+  padding-top: 140px;
+  text-align: center;
 }
 
 .black{
-  color: red;
-  z-index: 1;
+  color: white;
 }
+
+.padding_apple{
+  padding-top: 12px;
+}
+.padding_apple2{
+  padding-top: 24px;
+}
+
+ .padding-list{
+   padding-right: 12px;
+ }
