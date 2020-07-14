@@ -59,6 +59,11 @@ a {
   font-size: 0.9rem;
   font-weight: bold;
 }
+.btn-eng {
+  padding: 3px 3px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
 
 .hamburger-icon {
   float: right;
